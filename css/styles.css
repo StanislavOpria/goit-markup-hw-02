@@ -162,6 +162,7 @@ body {
 .team-list {
 }
 .team-item {
+  background-color: var(--third-background-color);
 }
 .team-img {
 }
